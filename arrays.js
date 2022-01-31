@@ -10,7 +10,5 @@ arr[2] = c;
 arr[2] = arr[4];
 arr[c-1] = 7;
 
-let b = arr.length;
-
 console.log(arr);
 console.log(arr.length); // длина массива
