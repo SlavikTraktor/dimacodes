@@ -14,3 +14,13 @@ let kek = () => {
 
 let a = kek();
 console.log(a);
+
+let lul = (x) => 5 * x;
+
+let kek2 = (x) => x(2);
+
+
+console.log(kek2(lul));
+let res = kek2((x) => x + 228);
+console.log(res);
+console.log(kek2((x) => !x));
