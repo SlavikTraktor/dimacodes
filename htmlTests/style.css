@@ -1,0 +1,12 @@
+div {
+  border: 5px #00ff00 solid;
+}
+
+.inputClass {
+  padding: 20px;
+  color: red;
+}
+
+#inputText {
+  margin: 40px;
+}
